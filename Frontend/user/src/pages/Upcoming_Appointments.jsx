@@ -28,13 +28,6 @@ const Upcoming_Appointments = () => {
     return (
       <div className="bg-gray-100 mt-[4.5rem] mb-[3cm]">
         <HeaderTittle text={"Upcoming Appointment"} />
-        <AppointmentCard
-          img="/Images/available-doctor-1.jpg"
-          name="Dr. Mahububa Islam"
-          role="Gynecology"
-          date="20 Nov 2023"
-          action="RUNNING"
-        />
       </div>
     );
   };
