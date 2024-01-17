@@ -1,1 +1,1 @@
-"# doctor appointment"
+"# medical appointment"
